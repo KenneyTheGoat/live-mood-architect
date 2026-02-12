@@ -57,6 +57,9 @@ Rules:
 - If the user expresses self-harm intent, respond with a brief supportive message encouraging them to seek professional help or reach out to a trusted person.
 - Keep responses 2–4 sentences, warm, specific to the user's name and feeling.
 """
+@app.get("/")
+def root():
+    return {"status": "ok", "docs": "/docs", "health": "/health"}
 
 @app.get("/health")
 def health():
