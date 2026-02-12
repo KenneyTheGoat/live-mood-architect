@@ -1,0 +1,11 @@
+# env files
+**/.env
+**/.env.*
+!**/.env.example
+
+# python
+**/.venv/
+**/__pycache__/
+
+# node
+**/node_modules/
