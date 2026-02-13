@@ -83,7 +83,7 @@ python -m venv .venv
 Activate virtual environment:
 
 Windows PowerShell:\
-..venv`\Scripts`{=tex}`\Activate`{=tex}.ps1
+..venv`\Scripts\Activate.ps1
 
 Install dependencies:
 
