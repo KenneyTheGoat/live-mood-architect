@@ -190,18 +190,9 @@ The system prompt enforces:
 
 ------------------------------------------------------------------------
 
-## What I Would Improve With More Time
 
--   Add rate limiting and abuse protection
--   Add structured logging and request correlation IDs
--   Add automated backend tests (validation + error paths)
--   Add basic analytics and monitoring
--   Add optional affirmation history persistence
-
-------------------------------------------------------------------------
 
 ## Author
 
 Kenneth Kamogelo\
-Full-stack AI project submission for Jr. AI Software Engineer technical
-assessment
+Full-stack AI project 
